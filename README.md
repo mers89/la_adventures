@@ -1,5 +1,5 @@
 
-## Rails Girls 2015 
+## Rails Girls 2017 
 
 ---
 
